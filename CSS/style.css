@@ -65,7 +65,7 @@ html {
     height: 100vh;
     font-size: 3.5rem;
     background-size: cover;
-    background-image:url("image/aircraft-airplane-airport-730778.jpg");
+    background-image:url("/image/aircraft-airplane-airport-730778.jpg");
 }
 
 .main::before{
